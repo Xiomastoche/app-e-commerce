@@ -40,13 +40,13 @@ ul {
 }
 
 li {
-    text-decoration: none;
     padding-left: 20px;
     list-style: none;
 }
 
 li a {
     color: rgb(6, 6, 6);
+    text-decoration: none;
 }
 
 li a:hover {
