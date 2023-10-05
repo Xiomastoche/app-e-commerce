@@ -1,5 +1,6 @@
-import logo from '../../img/logopet.png';
-import carrito from '../../img/carrito.png';
+import React from 'react';
+import logo from '../img/logopet.png';
+import carrito from '../img/carrito.png';
 
 const NavBar = () => {
 
